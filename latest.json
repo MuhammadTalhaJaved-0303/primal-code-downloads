@@ -1,8 +1,8 @@
 {
 	"version": "1.135.0",
-	"commit": "cf581a130057c928116982b86d230ab6a3584af0",
-	"date": "2026-09-03T23:12:51+05:00",
-	"name": "The Rig and update notices",
+	"commit": "bdad482ae55982cf2fbec2de0b84ce8fed688f2e",
+	"date": "2026-09-06T20:04:43+05:00",
+	"name": "The Deck, its own voice, and the new mark",
 	"notesUrl": "https://github.com/MuhammadTalhaJaved-0303/primal-code-downloads/releases/tag/ide-v1.135.1",
 	"downloads": {
 		"darwin-arm64": "https://github.com/MuhammadTalhaJaved-0303/primal-code-downloads/releases/download/ide-v1.135.1/PrimalCode-macos-arm64.dmg",
