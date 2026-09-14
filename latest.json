@@ -1,11 +1,11 @@
 {
 	"version": "1.135.0",
-	"commit": "bdad482ae55982cf2fbec2de0b84ce8fed688f2e",
-	"date": "2026-09-06T20:04:43+05:00",
-	"name": "The Deck, its own voice, and the new mark",
-	"notesUrl": "https://github.com/MuhammadTalhaJaved-0303/primal-code-downloads/releases/tag/ide-v1.135.1",
+	"commit": "afc14cd9dbe74453f166241de1311f4a10c09ad2",
+	"date": "2026-09-13T15:57:32+05:00",
+	"name": "161 themes, a gallery, and live motion",
+	"notesUrl": "https://github.com/MuhammadTalhaJaved-0303/primal-code-downloads/releases/tag/ide-v1.135.2",
 	"downloads": {
-		"darwin-arm64": "https://github.com/MuhammadTalhaJaved-0303/primal-code-downloads/releases/download/ide-v1.135.1/PrimalCode-macos-arm64.dmg",
-		"win32-x64": "https://github.com/MuhammadTalhaJaved-0303/primal-code-downloads/releases/download/ide-v1.135.1/PrimalCode-Setup-Windows-x64.exe"
+		"darwin-arm64": "https://github.com/MuhammadTalhaJaved-0303/primal-code-downloads/releases/download/ide-v1.135.2/PrimalCode-macos-arm64.dmg",
+		"win32-x64": "https://github.com/MuhammadTalhaJaved-0303/primal-code-downloads/releases/download/ide-v1.135.2/PrimalCode-Setup-Windows-x64.exe"
 	}
 }
