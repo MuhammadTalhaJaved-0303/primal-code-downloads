@@ -1,11 +1,11 @@
 {
 	"version": "1.135.0",
-	"commit": "afc14cd9dbe74453f166241de1311f4a10c09ad2",
-	"date": "2026-09-13T15:57:32+05:00",
-	"name": "161 themes, a gallery, and live motion",
-	"notesUrl": "https://github.com/MuhammadTalhaJaved-0303/primal-code-downloads/releases/tag/ide-v1.135.2",
+	"commit": "67a53801895cbae67b40a4ef74cd84f4c36496db",
+	"date": "2026-09-15T18:08:09+05:00",
+	"name": "A guided first run, motifs on, and a way to report problems",
+	"notesUrl": "https://github.com/MuhammadTalhaJaved-0303/primal-code-downloads/releases/tag/ide-v1.135.3",
 	"downloads": {
-		"darwin-arm64": "https://github.com/MuhammadTalhaJaved-0303/primal-code-downloads/releases/download/ide-v1.135.2/PrimalCode-macos-arm64.dmg",
-		"win32-x64": "https://github.com/MuhammadTalhaJaved-0303/primal-code-downloads/releases/download/ide-v1.135.2/PrimalCode-Setup-Windows-x64.exe"
+		"darwin-arm64": "https://github.com/MuhammadTalhaJaved-0303/primal-code-downloads/releases/download/ide-v1.135.3/PrimalCode-macos-arm64.dmg",
+		"win32-x64": "https://github.com/MuhammadTalhaJaved-0303/primal-code-downloads/releases/download/ide-v1.135.3/PrimalCode-Setup-Windows-x64.exe"
 	}
 }
