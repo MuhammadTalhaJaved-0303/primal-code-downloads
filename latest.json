@@ -1,12 +1,12 @@
 {
 	"version": "1.135.0",
-	"commit": "9973aa8816648b227121bef42a0b300f82762b81",
-	"date": "2026-09-19T14:18:17+05:00",
-	"name": "Dictation with your own key, a cleaner globe, and a readable / menu",
-	"notesUrl": "https://github.com/MuhammadTalhaJaved-0303/primal-code-downloads/releases/tag/ide-v1.135.4",
+	"commit": "f50879242549fb499f3b2823c695b7ec41125c98",
+	"date": "2026-09-25T17:32:25+05:00",
+	"name": "Primal Code 1.135.5 — sci-fi motifs, session characters, and honest agent setup",
+	"notesUrl": "https://github.com/MuhammadTalhaJaved-0303/primal-code-downloads/releases/tag/ide-v1.135.5",
 	"downloads": {
-		"darwin-arm64": "https://github.com/MuhammadTalhaJaved-0303/primal-code-downloads/releases/download/ide-v1.135.4/PrimalCode-macos-arm64.dmg",
-		"win32-x64": "https://github.com/MuhammadTalhaJaved-0303/primal-code-downloads/releases/download/ide-v1.135.4/PrimalCode-Setup-Windows-x64.exe",
-		"linux-x64": "https://github.com/MuhammadTalhaJaved-0303/primal-code-downloads/releases/download/ide-v1.135.4/PrimalCode-linux-x64.deb"
+		"darwin-arm64": "https://github.com/MuhammadTalhaJaved-0303/primal-code-downloads/releases/download/ide-v1.135.5/PrimalCode-macos-arm64.dmg",
+		"win32-x64": "https://github.com/MuhammadTalhaJaved-0303/primal-code-downloads/releases/download/ide-v1.135.5/PrimalCode-Setup-Windows-x64.exe",
+		"linux-x64": "https://github.com/MuhammadTalhaJaved-0303/primal-code-downloads/releases/download/ide-v1.135.5/PrimalCode-linux-x64.deb"
 	}
 }
