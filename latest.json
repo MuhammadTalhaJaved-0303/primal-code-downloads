@@ -1,12 +1,12 @@
 {
 	"version": "1.135.0",
-	"commit": "31f9711a3e58c64caa4dd4fdc069dc543e189fe2",
-	"date": "2026-10-10T18:39:34+05:00",
-	"name": "Primal Code 1.135.6 — Primal Studio",
-	"notesUrl": "https://github.com/MuhammadTalhaJaved-0303/primal-code-downloads/releases/tag/ide-v1.135.6",
+	"commit": "31d1d05d2039e20eb537da2af5c96f5e5f974255",
+	"date": "2026-10-12T17:52:01+05:00",
+	"name": "Primal Code 1.135.7 — a simpler Primal Start and steadier CLI detection",
+	"notesUrl": "https://github.com/MuhammadTalhaJaved-0303/primal-code-downloads/releases/tag/ide-v1.135.7",
 	"downloads": {
-		"darwin-arm64": "https://github.com/MuhammadTalhaJaved-0303/primal-code-downloads/releases/download/ide-v1.135.6/PrimalCode-macos-arm64.dmg",
-		"win32-x64": "https://github.com/MuhammadTalhaJaved-0303/primal-code-downloads/releases/download/ide-v1.135.6/PrimalCode-Setup-Windows-x64.exe",
-		"linux-x64": "https://github.com/MuhammadTalhaJaved-0303/primal-code-downloads/releases/download/ide-v1.135.6/PrimalCode-linux-x64.deb"
+		"darwin-arm64": "https://github.com/MuhammadTalhaJaved-0303/primal-code-downloads/releases/download/ide-v1.135.7/PrimalCode-macos-arm64.dmg",
+		"win32-x64": "https://github.com/MuhammadTalhaJaved-0303/primal-code-downloads/releases/download/ide-v1.135.7/PrimalCode-Setup-Windows-x64.exe",
+		"linux-x64": "https://github.com/MuhammadTalhaJaved-0303/primal-code-downloads/releases/download/ide-v1.135.7/PrimalCode-linux-x64.deb"
 	}
 }
